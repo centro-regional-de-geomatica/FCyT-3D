@@ -4,7 +4,7 @@
 
 Relevamiento Plani-altimétrico UAV
 
-:muscle::muscle::muscle::muscle:
+:muscle::airplane::muscle::airplane::muscle::airplane::muscle:
 
 # Ortomosaico
 ![image](https://user-images.githubusercontent.com/85247275/132263029-4caed027-296c-4356-b5ee-f49045fb0d89.png)
