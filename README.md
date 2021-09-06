@@ -8,7 +8,15 @@
 
 #Modelo 3D
 
-<iframe>https://centro-regional-de-geomatica.github.io/FCyT-3D/
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="500"
+      height="400"
+      src="https://centro-regional-de-geomatica.github.io/FCyT-3D/">
+  </iframe>
+</div>
+
 
 
 
