@@ -1,6 +1,6 @@
 # FCyT-3D
 
-# Orthomosaico
+# Ortomosaico
 ![image](https://user-images.githubusercontent.com/85247275/132263029-4caed027-296c-4356-b5ee-f49045fb0d89.png)
 
 # Modelo Digital de Elevación
